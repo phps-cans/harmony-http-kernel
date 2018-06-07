@@ -1,5 +1,5 @@
 {
-    "name": "php-cans/harmony-http-kernel",
+    "name": "phps-cans/harmony-http-kernel",
     "description": "This package contains code to create a psr15 middleware using symfony's http-kernel and routing components",
     "keywords": ["httpkernel", "psr15", "middleware", "symfony", "routing"],
     "homepage": "https://github.com/phps-cans/http-kernel-harmony",
