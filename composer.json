@@ -1,0 +1,23 @@
+{
+    "name": "php-cans/harmony-http-kernel",
+    "description": "This package contains code to create a psr15 middleware using symfony's http-kernel and routing components",
+    "keywords": ["httpkernel", "psr15", "middleware", "symfony, "routing"],
+    "homepage": "https://github.com/phps-cans/http-kernel-harmony",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benoit Ngo",
+            "email": "technologies.cans@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+
+    },
+    "autoload": {
+        "psr-4": {
+ 		"PhpCans\\HttpKernel\\Tool\\": "src/"
+        }
+    }
+}
